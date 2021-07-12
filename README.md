@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning salesforce
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about Tech related things
-- 📫 How to reach me: Linkedin: [@aarti] (www.linkedin.com/in/aarti-bedre-20a40b101)
+- 📫 How to reach me: Linkedin: [@aarti] (www.linkedin.com/in/aarti-bedre)
 - 😄 Pronouns: Her/she
 -->
 
